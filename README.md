@@ -28,4 +28,6 @@ git commit -m "tu primer comm"  //Añadir commit
 
 git remote add origin           //Añadimos el remoto
 
-git push origin master          //Mandas los commits     
+git push origin master          //Mandas los commits  
+
+git pull origin master          //Recibir la actualizacion   
