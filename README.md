@@ -24,6 +24,8 @@ touch README                    //Creas readme
 
 git add README                  //Añades readme
 
+git add.                        //Añade todos los archivos
+
 git commit -m "tu primer comm"  //Añadir commit
 
 git remote add origin           //Añadimos el remoto
