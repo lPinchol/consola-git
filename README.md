@@ -31,3 +31,7 @@ git remote add origin           //Añadimos el remoto
 git push origin master          //Mandas los commits  
 
 git pull origin master          //Recibir la actualizacion   
+
+git branch dev                  //Creacion de un branch
+
+git checkout dev                //Cambiar a la rama Dev
