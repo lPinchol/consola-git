@@ -1,6 +1,6 @@
 # Consola-git
 ==============
-Probando la consola y comandos para git
+> Probando la consola y comandos para git
 ==============
 
 ##Una vez instalado GIT, se hay que configurar:
@@ -32,14 +32,13 @@ git remote add origin           //Añadimos el remoto
 
 git push origin master          //Mandas los commits  
 
-<<<<<<< HEAD
 git pull origin master          //Recibir la actualizacion 
 
 git branch                      //Te muestra todas las ramas  
-=======
+
 git pull origin master          //Recibir la actualizacion   
 
 git branch dev                  //Creacion de un branch
 
 git checkout dev                //Cambiar a la rama Dev
->>>>>>> dev
+
