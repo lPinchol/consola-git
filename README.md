@@ -30,4 +30,6 @@ git remote add origin           //Añadimos el remoto
 
 git push origin master          //Mandas los commits  
 
-git pull origin master          //Recibir la actualizacion   
+git pull origin master          //Recibir la actualizacion 
+
+git branch                      //Te muestra todas las ramas  
