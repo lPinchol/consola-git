@@ -24,12 +24,22 @@ touch README                    //Creas readme
 
 git add README                  //Añades readme
 
+git add .                       //Añade todos los archivos
+
 git commit -m "tu primer comm"  //Añadir commit
 
 git remote add origin           //Añadimos el remoto
 
 git push origin master          //Mandas los commits  
 
+<<<<<<< HEAD
 git pull origin master          //Recibir la actualizacion 
 
 git branch                      //Te muestra todas las ramas  
+=======
+git pull origin master          //Recibir la actualizacion   
+
+git branch dev                  //Creacion de un branch
+
+git checkout dev                //Cambiar a la rama Dev
+>>>>>>> dev
