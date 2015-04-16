@@ -20,9 +20,15 @@ cat ~/.shh/id_rsa.pub
 
 git init                        //Iniciar git
 
+git clone git:ruta github       //Clona un repositorio
+
 touch README                    //Creas readme
 
+echo "Texto" > Readme.md        //Crea un archivo con texto en su interior y se llamara readme.md
+
 git add README                  //Añades readme
+
+git status                      //Muestra el estado de git
 
 git add .                       //Añade todos los archivos
 
@@ -40,5 +46,9 @@ git pull origin master          //Recibir la actualizacion
 
 git branch dev                  //Creacion de un branch
 
+git branch -d dev               //Eliminacion de la rama dev
+
 git checkout dev                //Cambiar a la rama Dev
+
+gitk                            //Saca la interfaz grafica
 
