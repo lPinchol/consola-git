@@ -26,4 +26,6 @@ git add README                  //Añades readme
 
 git commit -m "tu primer comm"  //Añadir commit
 
+git remote add origin           //Añadimos el remoto
+
 git push origin master          //Mandas los commits     
